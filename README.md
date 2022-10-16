@@ -6,9 +6,19 @@
   <h1>Greetings, I'm Carlos Ayala</h1>
   <br />
   
-  <h2>I'm software developer with interest in Ruby, Ruby on Rails and clean, efective code.</h3>
+  <h3>I'm software developer interested in Ruby, Ruby on Rails and clean, efective code.</h3>
   <br />
-  <h2>I have experience working with the following:</h3>
+
+  <h3>Activities</h3>
+  <p>Some activities I found myself enjoying:</p>
+  <ul>
+    <li>Comment/give advice about programming in <a href="https://www.mouredev.com/discord" target="_blank">MoureDev Discord</a></li>
+    <li>Share posts about <a href="https://www.reddit.com/r/ruby/" target="_blank">Ruby</a>, <a href="https://www.reddit.com/r/rubyonrails" target="_blank">Ruby on Rails</a> and <a href="https://www.reddit.com/r/rails/" target="_blank">Rails</a> from Reddit in <a href="https://slack-rubyperu.herokuapp.com/" target="_blank">Ruby Peru Slack</a>
+    <li>Participating in <a href="https://www.meetup.com/es-ES/rubyperu/events/288900738/" target="_blank">Ruby Peru's Book club</a></li>
+  </ul>
+  <br />
+
+  <h3>I have experience working with the following:</h3>
   <br />
   <div id="languages" align="left">
     <img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-plain-wordmark.svg" title="Ruby" alt="ruby lang logo" width="50" height="50" />
@@ -22,7 +32,7 @@
   </div>
   <br />
 
-  <h2>Connect with me through:</h2>
+  <h3>Connect with me through:</h2>
   <div id="badges">
     <a href="https://www.linkedin.com/in/cayalame/" targer="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
@@ -38,6 +48,7 @@
     <div>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=test0n3&layout=compact&theme=vision-friendly-dark" title="Top Langs" alt="Top used languages" width="" height="" />
     </div>
+    <br />
     <div>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=test0n3&theme=dark&background=000000" title="Git Stats", alt="Git Stats" width="" height= "" />
     </div>
